@@ -1,9 +1,10 @@
 # Hi, I'm Pavel Vasilyev
 ### About me
-Java developer. I've finished Hexlet online courses and now I'm lookong for a job.
+Java developer. I've finished Hexlet online courses and now I'm looking for a job.
 
 ### My CV
 https://cv.hexlet.io/ru/resumes/2488
+
 ### Skills 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
