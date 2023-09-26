@@ -24,4 +24,4 @@ https://cv.hexlet.io/ru/resumes/2488
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vasilyev_ps)
 
 ### GitHub stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=VasilyevPS&theme=transparent)](https://github.com/VasilyevPS/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=VasilyevPS&theme=transparent)](https://github-readme-stats.vercel.app/api?username=VasilyevPS)
